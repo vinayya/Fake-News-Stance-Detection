@@ -22,7 +22,7 @@ possible classifications:
 
 The above problem is based on the **[Fake News Challenge](http://www.fakenewschallenge.org/)** and is based on this research **[paper](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2760230.pdf)**.
 
-## DataSet Overview
+## Prerequisites
 Download the dataset required from **[Fake News Challenge DataSet](https://github.com/FakeNewsChallenge/fnc-1)**
 and put in data folder located in the home folder  
 
