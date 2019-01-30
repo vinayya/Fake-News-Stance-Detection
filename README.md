@@ -33,7 +33,7 @@ Add the above glove word50.txt file in the data folder
 For knowing more about the dataset used go **[here](/data/AbouttheDatset.MD)**
 
 ## Modelling Techniques
-Our goal in approaching the stance detection problem was to experiment with a wide range of the machine learning Algorithms namely
+Our goal in approaching the stance detection problem was to experiment with a wide range of the machine learning Algorithms namely.
 ```
 
 * Linear regression  
