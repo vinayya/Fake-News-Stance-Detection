@@ -1,5 +1,5 @@
 # Automatic Stance Detection
-![](fake.png)
+![](/images/fake.png)
 
 The issue of “fake news” has arisen recently as a potential threat to high-quality
 journalism and well-informed public discourse.In this project we are performing
@@ -18,7 +18,7 @@ possible classifications:
 * The article text is a `discussion` of the headline, without taking a position on it.  
 * The article text is `unrelated` to the headline (i.e. it doesn’t address the same topic).  
 
-![](fake_news_challenge.png)
+![](/images/fake_news_challenge.png)
 
 The above problem is based on the **[Fake News Challenge](http://www.fakenewschallenge.org/)** and is based on this research **[paper](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2760230.pdf)**.
 
@@ -50,7 +50,7 @@ Our goal in approaching the stance detection problem was to experiment with a wi
 * Gaussian Naive Bayes  
 
 ```
-![](techniques_fake_news.png)
+![](/images/techniques_fake_news.png)
 
 
 ## Problem approach
@@ -76,7 +76,7 @@ massive data set from the wikipedia and get the corresponding numerical
 weight for a particular word.   
 
 
-Please find the implementation **[here]**(/Stance_Detection.ipynb)
+Please find the implementation **[here](/Stance_Detection.ipynb)**.
 
 ## Programming Tools   
 ### Language :*Python3*  
