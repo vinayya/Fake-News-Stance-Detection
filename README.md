@@ -30,7 +30,7 @@ Download the Pretrained GLove word embeddings from here **[Glove Word embeddings
 
 Add the above glove word50.txt file in the data folder
 
-For knowing more about the dataset used go **[here](/data/AbouttheDatset.MD)**
+For knowing more about the dataset used go **[here](https://github.com/Abhinav1004/Fake-News-Stance-Detection/blob/master/data/AbouttheDataset.md)**
 
 ## Modelling Techniques
 Our goal in approaching the stance detection problem was to experiment with a wide range of the machine learning Algorithms namely.
