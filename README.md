@@ -87,4 +87,4 @@ Please find the implementation **[here](/Stance_Detection.ipynb)**.
 
 We got the best accuracy of 88.8% with Support Vector Machine Classifier
 
-![](images/results.png)
+![](images/comparison.png)
