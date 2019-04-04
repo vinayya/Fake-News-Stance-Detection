@@ -92,4 +92,5 @@ We got the best accuracy of 88.8% with Support Vector Machine Classifier
 ## Improvements
 
 Working on the different architectures of RNN and other algorithms for features extraction.
-Please see the ![link](https://github.com/stance-detection) for two more approaches used to solve the above problem.
+
+Please see the **[link](https://github.com/stance-detection)** for two more approaches used to solve the above problem.
